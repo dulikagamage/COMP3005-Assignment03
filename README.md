@@ -6,9 +6,9 @@ Student Number: 101263208
 Program Description: A program that interacts with PostgreSQL to manipulate student data.
 
 ## How to use the program:
-  Ensure PostgreSQL is running on your localhost.\n 
-  In pgAdmin4, create a database called "Assignment03"
-  Run the following query to create the table:
+  Ensure PostgreSQL is running on your localhost.   
+  In pgAdmin4, create a database called "Assignment03"  
+  Run the following query to create the table:  
   
       CREATE TABLE students (
         student_id serial PRIMARY KEY,
@@ -18,7 +18,7 @@ Program Description: A program that interacts with PostgreSQL to manipulate stud
         enrollment_date date
       );
   
-  Then run another query to insert some initial data:
+  Then run another query to insert some initial data:  
   
       INSERT INTO students (first_name, last_name, email, enrollment_date) VALUES
       ('John', 'Doe', 'john.doe@example.com', '2023-09-01'),
