@@ -5,7 +5,7 @@ Student Number: 101263208
 
 Program Description: A program that interacts with PostgreSQL to manipulate student data.
 
-# How to use the program:
+## How to use the program:
   Ensure PostgreSQL is running on your localhost. 
   In pgAdmin4, create a database called "Assignment03"
   Run the following query to create the table:
@@ -25,5 +25,5 @@ Program Description: A program that interacts with PostgreSQL to manipulate stud
       ('Jane', 'Smith', 'jane.smith@example.com', '2023-09-01'),
       ('Jim', 'Beam', 'jim.beam@example.com', '2023-09-02');
 
-# Compile    
+## Compile    
 
