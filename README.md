@@ -26,7 +26,7 @@ Program Description: A program that interacts with PostgreSQL to manipulate stud
       ('Jim', 'Beam', 'jim.beam@example.com', '2023-09-02');
 
 ## Compile    
-Enter the following into your command prompt or terminal:
+Enter the following into your command prompt or terminal:  
     python a3.py
-or
+or  
     python3 a3.py
