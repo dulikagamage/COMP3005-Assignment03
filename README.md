@@ -37,3 +37,5 @@ Program Description: A program that interacts with PostgreSQL to manipulate stud
   
       python a3.py  
   
+## Once Running:
+  Once the program is running you can follow the instructions given in the console. You may also reference my    video for a demo.
