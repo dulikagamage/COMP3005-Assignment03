@@ -27,6 +27,6 @@ Program Description: A program that interacts with PostgreSQL to manipulate stud
 
 ## Compile    
 Enter the following into your command prompt or terminal:  
-    python a3.py
-or  
-    python3 a3.py
+      python a3.py
+  or  
+      python3 a3.py
