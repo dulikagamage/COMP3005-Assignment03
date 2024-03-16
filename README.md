@@ -26,5 +26,4 @@ Program Description: A program that interacts with PostgreSQL to manipulate stud
       ('Jim', 'Beam', 'jim.beam@example.com', '2023-09-02');
 
 # Compile    
-    hello
-[Tab][Tab]Your text
+
