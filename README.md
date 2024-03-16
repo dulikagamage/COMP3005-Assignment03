@@ -1,9 +1,13 @@
 # COMP3005-Assignment03
 
-Author: Dulika Gamage
-Student Number: 101263208
+## Author: Dulika Gamage
+## Student Number: 101263208
 
-Program Description: A program that interacts with PostgreSQL to manipulate student data.
+## Program Description: 
+  A program that interacts with PostgreSQL to manipulate student data.
+  ### Functions:
+    
+  
 
 ## How to use the program:
   Ensure PostgreSQL is running on your localhost.   
@@ -38,4 +42,6 @@ Program Description: A program that interacts with PostgreSQL to manipulate stud
       python a3.py  
   
 ## Once Running:
-  Once the program is running you can follow the instructions given in the console. You may also reference my    video for a demo.
+  Once the program is running you can follow the instructions given in the console.   
+  You may also reference my video for a demo.
+
