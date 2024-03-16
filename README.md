@@ -26,10 +26,10 @@ Program Description: A program that interacts with PostgreSQL to manipulate stud
       ('Jim', 'Beam', 'jim.beam@example.com', '2023-09-02');
 
 ## Compiling and Running:
-  Verify that you have Python by running the following command:
+  Verify that you have Python by running the following command in your terminal:
   
       python --version
-  Also, install the following if you do not have it already:
+  Also, install the following if you do not have it already. In your terminal enter:
   
       pip3 install psycopg2  
   Navigate to the directory in which the a3.py file is stored.  
