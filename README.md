@@ -30,3 +30,10 @@ Program Description: A program that interacts with PostgreSQL to manipulate stud
       python a3.py  
   or  
       python3 a3.py
+## Compile:
+  Enter the following into your command prompt or terminal:
+  In pgAdmin4, create a database called "Assignment03"  
+  Run the following query to create the table:  
+  
+      python a3.py  
+  
