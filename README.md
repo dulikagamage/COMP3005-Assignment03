@@ -1,7 +1,7 @@
 # COMP3005-Assignment03
 
-### Author: Dulika Gamage
-### Student Number: 101263208
+#### Author: Dulika Gamage
+#### Student Number: 101263208
 
 ## Program Description: 
   A program that interacts with PostgreSQL to manipulate student data.
