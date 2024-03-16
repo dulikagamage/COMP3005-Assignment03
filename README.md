@@ -3,6 +3,9 @@
 #### Author: Dulika Gamage
 #### Student Number: 101263208
 
+## Video Demonstration:
+https://youtu.be/Ae-0KgVG7DE
+[![DEMO]([https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fas2.ftcdn.net%2Fv2%2Fjpg%2F02%2F25%2F53%2F53%2F1000_F_225535312_cLcsgzT425s2PJRwXLSEmdQBTVS2dxG6.jpg&tbnid=FOA7KNaFCtfymM&vet=12ahUKEwjdy9-RzfmEAxVUEmIAHcUlB9QQMygIegQIARB3..i&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fimages%2Fword-writing-text-demo-business-concept-for-demonstration-of-a-product-techniques-and-capabilities-public-meeting%2F225535312&docid=9CsX_Y8BAyhu_M&w=1000&h=667&q=demo%20clipart&ved=2ahUKEwjdy9-RzfmEAxVUEmIAHcUlB9QQMygIegQIARB3))](https://youtu.be/Ae-0KgVG7DE)
 ## Program Description: 
   A program that interacts with PostgreSQL to manipulate student data.
   ### Functions:
@@ -53,4 +56,3 @@
 ## Once Running:
   Once the program is running you can follow the instructions given in the console.   
   You may also reference my video for a demo.
-
