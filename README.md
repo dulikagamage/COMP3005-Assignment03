@@ -24,4 +24,5 @@ How to use the program:
   ('Jim', 'Beam', 'jim.beam@example.com', '2023-09-02');
 
 # Compile
-  
+Hash Sign(#)][Space]Any Header/subtitle or any text you want starting with hash
+[Tab][Tab]Your text
