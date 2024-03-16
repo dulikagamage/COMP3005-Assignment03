@@ -25,15 +25,8 @@ Program Description: A program that interacts with PostgreSQL to manipulate stud
       ('Jane', 'Smith', 'jane.smith@example.com', '2023-09-01'),
       ('Jim', 'Beam', 'jim.beam@example.com', '2023-09-02');
 
-## Compile    
-  Enter the following into your command prompt or terminal:
-      python a3.py  
-  or  
-      python3 a3.py
 ## Compile:
   Enter the following into your command prompt or terminal:
-  In pgAdmin4, create a database called "Assignment03"  
-  Run the following query to create the table:  
   
       python a3.py  
   
