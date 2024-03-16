@@ -6,17 +6,17 @@
 ## Program Description: 
   A program that interacts with PostgreSQL to manipulate student data.
   ### Functions:
-  controlFlow():  
+  #### controlFlow():  
   Executes the program and manages the user input.  
-  mainMenu():  
+  #### mainMenu():  
   Prints the main menu to the screen.  
-  getAllStudents():  
+  #### getAllStudents():  
   Prints all students from the database to the screen.  
-  addStudent(first_name, last_name, email, enrollment_date):  
+  #### addStudent(first_name, last_name, email, enrollment_date):  
   Adds a new student to the database with all student info.  
-  updateStudentEmail(student_id, new_email):  
+  #### updateStudentEmail(student_id, new_email):  
   Finds student by id and updates email with the new given email.  
-  deleteStudent(student_id):  
+  #### deleteStudent(student_id):  
   Finds student by id and deleted student from the database.  
 ## How to use the program:
   Ensure PostgreSQL is running on your localhost.   
