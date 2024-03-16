@@ -23,6 +23,5 @@ How to use the program:
   ('Jane', 'Smith', 'jane.smith@example.com', '2023-09-01'),
   ('Jim', 'Beam', 'jim.beam@example.com', '2023-09-02');
 
-# Compile
-Hash Sign(#)][Space]Any Header/subtitle or any text you want starting with hash
+# Compile    hello
 [Tab][Tab]Your text
