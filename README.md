@@ -32,8 +32,8 @@ Program Description: A program that interacts with PostgreSQL to manipulate stud
   Also, install the following if you do not have it already:
   
       pip3 install psycopg2  
-  Navigate to the directory in which the a3.py file is stored and  
-  enter the following into your command prompt or terminal:
+  Navigate to the directory in which the a3.py file is stored.  
+  Enter the following into your command prompt or terminal:
   
       python a3.py  
   
